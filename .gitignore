@@ -206,3 +206,6 @@ results.csv
 
 # CI test asset cache
 .ultralytics_cache/
+
+# Pickleball bounce-tracking project — keep rendered media/outputs out of git
+pb_output/
